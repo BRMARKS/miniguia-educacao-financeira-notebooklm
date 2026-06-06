@@ -462,7 +462,7 @@ miniguia-educacao-financeira-notebooklm/
 
 ## 👤 Autor
 
-Desenvolvido por **[SEU NOME]** como parte de um desafio de projeto da DIO.
+Desenvolvido por Matheus Barcelli como parte de um desafio de projeto da DIO.
 
 ---
 
